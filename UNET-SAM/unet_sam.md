@@ -1,0 +1,2 @@
+## U_NET vs SAM for Segmentation
+U-Net (imported from segmentation_models_pytorch) and Meta AI’s SAM (Segment Anything Model) were trained on the Carvana dataset (with synthetic samples for demo). Both models were trained / evaluated and their segmentation accuracy was compared using metrics like Dice Score, precision, recall and f1 score.
